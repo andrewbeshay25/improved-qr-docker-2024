@@ -16,6 +16,10 @@ PUT YOUR QR CODE IMAGE
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
  PUT YOUR LOG IMAGE HERE
+
+![qr code](https://github.com/andrewbeshay25/improved-qr-docker-2024/blob/main/qr_codes/QRCode_20241112222242.png?raw=true)
+![logging screenshot](https://github.com/andrewbeshay25/improved-qr-docker-2024/blob/main/Logging%20Screenshot.png?raw=true)
+
 ## Lesson Video
 
 1.  [Scaling and Backend Software Engineering](https://youtu.be/v3LxCmYQVS4)
